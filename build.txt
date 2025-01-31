@@ -1,3 +1,4 @@
 displayName = Seaplus
 author = tong
+includeSource = true
 version = 0.1
