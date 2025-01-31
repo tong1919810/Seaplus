@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    /*
+    {
+      "name": "C#: Seaplus [TerrariaServer]",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Seaplus.csproj",
+      "launchConfigurationId": "TargetFramework=;TerrariaServer"
+    },*/
+    {
+      "name": "Attach to tModLoader",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:pickProcess}",
+      "requireExactSource": false,
+      "justMyCode": false
+    }
+  ]
+}
