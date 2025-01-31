@@ -1,1 +1,6 @@
-
+Items: {
+	ShellCrushedSandItem: {
+		DisplayName: Shell Crushed Sand Item
+		Tooltip: ""
+	}
+}
